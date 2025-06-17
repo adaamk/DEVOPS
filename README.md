@@ -1,2 +1,2 @@
-# DEVOPS
+# DevOps
 devops training 
